@@ -1,6 +1,6 @@
-# `lispdotink`
+# `splatdotink`
 
-A
+A Common Lisp client library for <https://splatoon2.ink/>.
 
 ## LICENSE
 
